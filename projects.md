@@ -30,3 +30,8 @@
 | ft_server | This project is intended to introduce you to the basics of system and network administration. It will allow you to install a complete web server, using a deployment technology named Docker. | System administration | Rigor, Network & system administration |
 | ft_services | This project consist to clusturing an docker-compose application and deploy it with Kubernetes. | System administration | Rigor, Network & system administration |
 | libasm | The aim of this project is to get familiar with assembly language. | Low-Level, Library | Rigor, Imperative programming |
+| minishell | The objective of this project is for you to create a simple shell. | Unix logic | Rigor, Unix, Imperative programming |
+| webserv | This project is here to make you write your own HTTP server. You will be able to test it with a real browser. HTTP is one of the most used protocol on internet. Knowing its arcane will be useful, even if you won't be working on a website. | Network | Rigor, Unix, Network & system administration, Object-oriented programming |
+| Philosophers | This project aims to teach concurrent programming, focusing on multithreading and multiprocessing. | Unix logic | Rigor, Unix, Imperative programming |
+| ft_irc | Create your own IRC server in C++, fully compatible with an official client. | Network | Rigor, Unix, Network & system administration, Object-oriented programming |
+| ft_transcendence | This project is centered around the design, development, and organization of a full-stack web application. | Specs | Rigor, Web, Group & interpersonal |
