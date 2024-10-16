@@ -103,3 +103,14 @@
 | avaj-launcher | First projet of the Java projects arc. Implementation of a simple Java program according to a given class diagram written in UML. | General, Java, UML | Rigor, Adaptation & creativity, Object-oriented programming, Imperative programming |
 | swingy | This is the second project from the Java world at 42. You will learn to develop GUI applications with the SWING framework, in order to create an RPG game. | General, Java, Swing | Rigor, Adaptation & creativity, Object-oriented programming, Imperative programming |
 | fix-me | Final project of the Java Programming arc. Write a program that simulates stock exchanges and deals with trading algorithms, with networking and socket implementations. | General, Java, Network | Rigor, Adaptation & creativity, Object-oriented programming, Imperative programming |
+| pestilence | Second virus project. Reuse the Famine base to add a hiding method of your code. | Cybersecurity, Low-level, Malware | Rigor, Unix, Imperative programming |
+| war | Third virus project. Reuse Pestilence, and manage to have your binary modify its signature on runtime. | Cybersecurity, Low-level, Malware | Rigor, Unix, Imperative programming |
+| death | Last virus project. Create with your Famine, Pestilence and War a real metamorphic code. | Cybersecurity, Low-level, Malware | Rigor, Unix, Imperative programming |
+| boot2root | Security Challenge.In a group, search for various means to pass root on the ISO given to you. | Cybersecurity, General | Unix, Adaptation & creativity, Security |
+| ft_shield | Use your skills to create a daemon to create your first basic trojan. | Cybersecurity, Low-level, Malware | Unix, Network & system administration, Imperative programming |
+| override | If you thought Rainfall was easy, here’s a more daunting challenge. Override is last ISO that will have you search for faults present in the protected binaries, and re-build these binaries depending on their behavior. | Cybersecurity, Binary Exploitation | Unix, Adaptation & creativity, Security |
+| ft_vox | ft_vox is a project to introduce the voxel engine, inspired by minecraft, in which you must create a randomly generated world. | Gaming, Optimisation, GPU | Algorithms & AI, Graphics |
+| ft_ssl_rsa | You will code your own random prime number generator and use it to make private RSA keys. | Cybersecurity, Math | Algorithms & AI, Unix, Adaptation & creativity, Security |
+| ft_ssl_md5 | You will recode part of the OpenSSL program, specifically the MD5 Hashing Algorithm. | Cybersecurity, Math | Rigor, Algorithms & AI, Security |
+| ft_ssl_des | You will recode part of the OpenSSL program, specifically BASE64, DES-ECB and DES-CBC. | Cybersecurity, Math | Rigor, Unix, Network & system administration, Security |
+| dslr | Discover Data Science through this project by recreating the Hogwarts Sorting Hat using logistic regression! | DataScience, Logistic Regression | DB & Data, Algorithms & AI |
