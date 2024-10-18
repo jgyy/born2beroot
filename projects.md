@@ -211,4 +211,28 @@
 | Python - 3 - OOP | Classes and the heritage in Python. | General, Data & AI, Python | Rigor, Algorithms & AI, Object-oriented programming |
 | Python - 4 - Dod | Structure Design | General, Data & AI, Python | Rigor, Algorithms & AI, Object-oriented programming |
 | Unity | Piscines are an important time in your cursus, during which you will have the occasion to learn a new language, or even a new paradigm! | Graphics, Adaptation and creativity, Object-oriented programming | Adaptation & creativity, Object-oriented programming, Graphics |
-| Unity - 0 - The basics Unity tools | Assets, GameObject, Behavior, Input, Transform | Gaming, Graphics, Unity | Adaptation & creativity, Object-oriented programming, Graphics |
+| Unity - 0 - The basics Unity tools | This project introduces Unity basics by guiding students to create a "The Floor is Lava" game, where they'll build a scene with a lava floor, a pathway, a movable player, and implement game mechanics using Unity tools and C# scripting. | Gaming, Graphics, Unity | Adaptation & creativity, Object-oriented programming, Graphics |
+| Unity - 1 - 3D physics, Tags, Layers and Scene | 3D physics, Tags, Layers and Scene | Gaming, Graphics, Unity | Adaptation & creativity, Object-oriented programming, Graphics |
+| Unity - 1 - 3D physics, Tags, Layers and Scene | 3D physics, Tags, Layers and Scene | Gaming, Graphics, Unity | Adaptation & creativity, Object-oriented programming, Graphics |
+| Unity - 2 - 2D environment, tiles and sprites | 2D environment, tiles and sprites | Gaming, Graphics, Unity | Adaptation & creativity, Object-oriented programming, Graphics |
+| Unity - 3 - Advanced inputs and 2D GUI | Advanced inputs and 2D GUI | Gaming, Graphics, Unity | Adaptation & creativity, Object-oriented programming, Graphics |
+| Unity - 4 - Animations and Sound | Animations and Sound | Gaming, Graphics, Unity | Adaptation & creativity, Object-oriented programming, Graphics |
+| Unity - 5 - Singleton, playerPrefs and coroutines | Singleton, PlayerPrefs and Coroutines | Gaming, Graphics, Unity | Adaptation & creativity, Object-oriented programming, Graphics |
+| Unity - 6 - Navmesh, light, sound and camera | Navmesh, Light, Sound and Camera | Gaming, Graphics, Unity | Adaptation & creativity, Object-oriented programming, Graphics |
+| Piscine Data Science | Introduction to data science via the different professions | DataScience, DB | Rigor, DB & Data, Algorithms & AI |
+| Data Science - 0 | Creation of a DB | DataScience, DB | Rigor, DB & Data, Algorithms & AI |
+| Data Science - 1 | Make your data warehouse | DataScience, DB | Rigor, DB & Data, Algorithms & AI |
+| Data Science - 2 | Customer segmentation | DataScience, DB | Rigor, DB & Data, Algorithms & AI |
+| Data Science - 3 | Data Scientist 0 | DataScience, DB | Rigor, DB & Data, Algorithms & AI |
+| Data Science - 4 | Data Scientist 1 | DataScience, DB | Rigor, DB & Data, Algorithms & AI |
+| Cybersecurity | Piscines are an important time in your cursus, during which you will have the occasion to learn a new language, or even a new paradigm! | Cybersecurity | Rigor, Unix, Algorithms & AI |
+| Cybersecurity - arachnida - Web | Introductory project on scraping but also on the discovery of metadatas. | Cybersecurity, Web | Rigor, Unix, Algorithms & AI |
+| Cybersecurity - ft_otp - OTP | Introductory project to the notion of OTP with the use of the RFC HOTP. | Cybersecurity, Crypto | Rigor, Adaptation & creativity, Security |
+| Cybersecurity - ft_onion - Web | Introductory project allowing the implementation of a hidden service on tor. | Cybersecurity, Web, Administration systeme | Web, Network & system administration, Security |
+| Cybersecurity - Reverse me - Rev | Introductory project to the discCybersecurity - Reverse me - Rev | Cybersecurity, Unix | Rigor, Security |
+| Cybersecurity - Stockholm - Malware | Introduction to file manipulation by creating a harmless malware. | Cybersecurity, Malware | Rigor, Security |
+| Cybersecurity - Inquisitor - Network | Introductory project on understanding the network from a low-level perspective. | Cybersecurity, Network | Rigor, Network & system administration, Security |
+| Cybersecurity - Vaccine - Web | Introductory project to understand a very well known web vulnerability, the famous SQLI. You will have to create a tool to automate your actions. | Cybersecurity, Web | Web, DB & Data, Security |
+| Cybersecurity - Iron Dome - Malware | Introduction to the detection and monitoring of malicious activity. | Cybersecurity, Malware | Rigor, Security |
+| Mobile | Piscines are an important time in your cursus, during which you will have the occasion to learn a new language, or even a new paradigm! | Mobile, General | Rigor, Unix, Algorithms & AI |
+| Mobile | Piscines are an important time in your cursus, during which you will have the occasion to learn a new language, or even a new paradigm! | Mobile, General | Rigor, Unix, Algorithms & AI |
