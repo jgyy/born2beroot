@@ -1,4 +1,24 @@
-# 42 Projects
+# Ecole 42
+
+## Intern list
+
+- Software Engineering Intern
+- Full-Stack Developer Intern
+- Mobile App Developer Intern (iOS/Android)
+- DevOps Intern
+- Cloud Computing Intern
+- Data Engineering Intern
+- Machine Learning/AI Intern
+- Web Development Intern
+- Cybersecurity Intern
+- Game Development Intern
+- QA/Testing Intern
+- UI/UX Developer Intern
+- Embedded Systems Intern
+- Blockchain Developer Intern
+- IoT (Internet of Things) Intern
+
+## 42 Projects
 
 | Name    | Description | Keywords | Skills |
 | ------- | ----------- | -------- | ------ |
@@ -133,7 +153,7 @@
 | corewar | This project involves creating a virtual arena, and having simplistic-language programs fight each other. You will thus get acquainted with VM conception (with instructions it recognizes, registers, etc) and compilation problems of an assembly language in bytecode. In bonus, the pleasure to have your champions fight in the arena. | General, Emulation, Optimisation | Algorithms & AI, Organization, Group & interpersonal, Adaptation & creativity |
 | fract-ol | This project involves creating a program that generates and displays interactive, zoomable fractal images, specifically the Mandelbrot and Julia sets, using the MiniLibX graphics library in C. | 2D programming, Optimization techniques, Some Maths | Imperative programming, Graphics |
 | ft_ls | For knowing the filesystem inside out, and how files and directories are sorted, you will code by yourself one of the most used command: ls. | General, Unix, System | Algorithms & AI, Unix, Imperative programming |
-| ft_malcolm | An introduction to network security with Man In The Middle attack | Cybersecurity, Network | Unix, Security, Network & system administration |
+| ft_malcolm | This project involves implementing an Address Resolution Protocol (ARP) spoofing attack as an introduction to network security, requiring students to create a program that can intercept and manipulate ARP requests and replies on a local network. | Cybersecurity, Network | Unix, Security, Network & system administration |
 | 42sh | This project consists of creating a complete shell and uses the work done on your 21sh. A minimum set of functionalities is asked, from which your will build your own finalized shell, potentially going as far as job control and shell script. This project will involve a large variety of standard UNIX (and POSIX) functionalities. | General, Unix, System | Organization, Unix, Group & interpersonal |
 | rt | RT pushes the limits of what Raytracing can do: mirror effect, transparency, object cutting, texture application…Use the preceding project to create an infrastructure capable of supporting all these ramifications and obtain sublime computer-generated images. | General, Raytracing | Organization, Group & interpersonal, Adaptation & creativity, Graphics |
 | freddie-mercury | This project involves creating a VR escape game with multiple levels, interactive objects, and basic storytelling elements using a game engine and VR headset compatibility. | Game Developer | Algorithms & AI, Adaptation & creativity, Graphics, Technology integration |
