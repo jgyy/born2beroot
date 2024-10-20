@@ -1,22 +1,37 @@
 # Ecole 42
 
-## Intern list
+## Tech role lists
 
-- Software Engineering Intern
-- Full-Stack Developer Intern
-- Mobile App Developer Intern (iOS/Android)
-- DevOps Intern
-- Cloud Computing Intern
-- Data Engineering Intern
-- Machine Learning/AI Intern
-- Web Development Intern
-- Cybersecurity Intern
-- Game Development Intern
-- QA/Testing Intern
-- UI/UX Developer Intern
-- Embedded Systems Intern
-- Blockchain Developer Intern
-- IoT (Internet of Things) Intern
+- Software Engineering, Full-Stack Developer
+- Mobile App Developer (iOS/Android), DevOps
+- Cloud Computing, Data Engineering
+- Machine Learning/AI, Web Development
+- Cybersecurity, Game Development
+- QA/Testing, UI/UX Developer, Embedded Systems,
+- Blockchain Developer, IoT (Internet of Things)
+
+## Skills
+
+- Adaptation & creativity: 42run, Krpsim
+- Algorithms & AI: Libft, ft_printf
+- Basics: none
+- Company Experience: Internship I, Internship II
+- DB & Data: ft_hangouts, ft_linear_regression
+- Functional programming: ft_turing, ft_ality
+- Graphics: miniRT, cub3D 
+- Group & interpersonal: ft_transcendence, gomoku
+- Imperative programming: libasm, minishell
+- Network & system administration: ft_server, ft_service
+- Object-oriented programming: webserv, ft_irc 
+- Organization: computorv2, music-room 
+- Parallel computing: particle-system
+- Rigor: get_next_line, Philosophers
+- Ruby: none
+- Security: camagru, matcha 
+- Shell: none
+- Technology integration: swifty-companions, swifty-protein
+- Unix: taskmaster, strace
+- Web: hypertube, darkly 
 
 ## 42 Projects
 
@@ -45,7 +60,7 @@
 | Libft | This project is your very first project as a student at 42. You will need to recode a few functions of the C standard library as well as some other utility functions that you will use during your whole cursus. | Unix logic | Rigor, Algorithms & AI, Imperative programming |
 | miniRT | The miniRT project is an introduction to ray tracing, where students implement a basic ray tracer in C to render simple 3D scenes with geometric objects, lighting, and basic transformations. | Applicative | Rigor, Algorithms & AI, Graphics, Imperative programming |
 | ft_printf | This project is pretty straightforward, you have to recode printf. You will learn what is and how to implement variadic functions. Once you validate it, you will reuse this function in your future projects. | Unix logic | Rigor, Algorithms & AI |
-| cub3d | This project is inspired by the world-famous eponymous 90's game, which was the first FPS ever. It will enable you to explore ray-casting. Your goal will be to make a dynamic view inside a maze, in which you'll have to find your way. | Applicative | Rigor, Algorithms & AI, Graphics, Imperative programming |
+| cub3D | This project is inspired by the world-famous eponymous 90's game, which was the first FPS ever. It will enable you to explore ray-casting. Your goal will be to make a dynamic view inside a maze, in which you'll have to find your way. | Applicative | Rigor, Algorithms & AI, Graphics, Imperative programming |
 | get_next_line | May it be a file, stdin, or even later a network connection, you will always need a way to read content line by line. It is time to start working on this function, which will be essential for your future projects. | Unix logic | Rigor, Algorithms & AI, Unix |
 | ft_server | This project is intended to introduce you to the basics of system and network administration. It will allow you to install a complete web server, using a deployment technology named Docker. | System administration | Rigor, Network & system administration |
 | ft_services | This project involves setting up a Kubernetes cluster with multiple containerized services including WordPress, MySQL, phpMyAdmin, FTPS, Grafana, InfluxDB, and Nginx, all managed through a single Load Balancer entry point. | System administration | Rigor, Network & system administration |
@@ -53,7 +68,7 @@
 | minishell | This project involves creating a simple shell program in C that mimics basic functionalities of bash, including command execution, input/output redirection, pipes, environment variable handling, and built-in commands. | Unix logic | Rigor, Unix, Imperative programming |
 | webserv | This project involves creating a custom HTTP server in C++ 98 that can handle basic HTTP methods (GET, POST, DELETE), serve static websites, process configuration files, and manage CGI execution. The server must be non-blocking, use poll() (or equivalent) for I/O operations, handle multiple ports, and remain stable under stress, all while adhering to HTTP standards and mimicking NGINX behavior in certain aspects. | Network | Rigor, Unix, Network & system administration, Object-oriented programming |
 | Philosophers | This project, called "Philosophers," challenges students to implement a solution to the classic Dining Philosophers problem using threads and mutexes in C. The main goal is to simulate a group of philosophers who alternate between eating, thinking, and sleeping while sharing limited resources (forks), with the objective of preventing deadlocks and ensuring no philosopher starves to death. | Unix logic | Rigor, Unix, Imperative programming |
-| ft_irc | This project involves creating an IRC (Internet Relay Chat) server in C++98 that can handle multiple clients simultaneously, implement basic IRC functionalities, and process commands without blocking operations. | Network | Rigor, Unix, Network & system administration, Object-oriented programming |
+| ft_irc | This project involves creating an IRC (Internet Relay Chat) server in C++98 that can handle multiple clients simultaneously, implement basic IRC functionalities, and process commands without blocking operations. | Network | Rigor, Unix, Network & system administration, Oft_transcendencebject-oriented programming |
 | ft_transcendence | This project, called ft_transcendence, involves creating a website for a Pong contest where users can play against each other in real-time, with various features like user management, authentication, and tournament systems. The project consists of a mandatory part and optional modules that enhance different aspects of the website, such as gameplay, user experience, security, and accessibility. | Specs | Rigor, Web, Group & interpersonal |
 | CPP Module 00 | This project introduces C++ programming concepts through a series of exercises focusing on basic syntax, classes, and object-oriented programming. The exercises include creating a simple megaphone program, implementing a phonebook application with user interaction, and recreating a missing source file for a banking system, all designed to familiarize students with C++ fundamentals while adhering to specific coding standards and restrictions. | Imperative programming, Object-oriented programming, Rigor, OOP | Rigor, Object-oriented programming, Imperative programming |
 | CPP Module 01 | This module is designed to help you understand the memory allocation, reference, pointers to members and the usage of the switch in CPP. | Imperative programming, Object-oriented programming, Rigor, OOP | Rigor, Object-oriented programming, Imperative programming |
