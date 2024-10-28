@@ -30,8 +30,6 @@
 - Unix: taskmaster, strace
 - Web: hypertube, darkly 
 
-https://www.internsg.com/job/republic-polytechnic-frontend-intern-ai-powered-mobile-app/
-
 ## 42 Projects
 
 | Name    | Description | Keywords | Skills |
@@ -226,7 +224,7 @@ https://www.internsg.com/job/republic-polytechnic-frontend-intern-ai-powered-mob
 | Symfony - 3 - Final | This project involves creating a one-page application using Symfony, implementing user authentication, AJAX-based post creation and management, and real-time updates using WebSockets. | Web, Framework php | Web, DB & Data, Object-oriented programming, Technology integration |
 | Ftl_quantum | This project is an introduction to quantum programming. It will challenge you to create different quantum programs, and run them on a real quantum computer. | General, Quantum programming | Rigor, Algorithms & AI, Adaptation & creativity |
 | Python - 0 - Starting | This project introduces the basics of Python programming through a series of exercises, covering topics such as data types, functions, file handling, and package creation. The exercises progress from simple tasks like printing "Hello World" to more complex challenges like creating a Morse code translator and building a custom Python package, aiming to provide a comprehensive foundation in Python for data science applications. | General, Data & AI, Python | Rigor, Algorithms & AI, Object-oriented programming |
-| Python - 1 - Array | Discovery of arrays, their manipulations, and work on images. | General, Data & AI, Python | Rigor, Algorithms & AI, Object-oriented programming |
+| Python - 1 - Array | This Python project focuses on array manipulation and image processing, with exercises ranging from basic array operations (like BMI calculations and 2D array slicing) to more advanced image processing tasks (including loading, zooming, rotating, and applying color filters to images). The project consists of 6 exercises that progressively build in complexity, ensuring students understand array operations using libraries like NumPy while adhering to specific coding standards like explicit imports, proper error handling, and mandatory documentation for functions. | General, Data & AI, Python | Rigor, Algorithms & AI, Object-oriented programming |
 | Python - 2 - DataTable | Load, manipulate and display datatable. | General, Data & AI, Python | Rigor, Algorithms & AI, Object-oriented programming |
 | Python - 3 - OOP | Classes and the heritage in Python. | General, Data & AI, Python | Rigor, Algorithms & AI, Object-oriented programming |
 | Python - 4 - Dod | Structure Design | General, Data & AI, Python | Rigor, Algorithms & AI, Object-oriented programming |
