@@ -14,7 +14,6 @@
 
 - Adaptation & creativity: 42run, Krpsim
 - Algorithms & AI: Libft, ft_printf
-- Basics: none
 - Company Experience: Internship I, Internship II
 - DB & Data: ft_hangouts, ft_linear_regression
 - Functional programming: ft_turing, ft_ality
@@ -26,12 +25,12 @@
 - Organization: computorv2, music-room 
 - Parallel computing: particle-system
 - Rigor: get_next_line, Philosophers
-- Ruby: none
 - Security: camagru, matcha 
-- Shell: none
 - Technology integration: swifty-companions, swifty-protein
 - Unix: taskmaster, strace
 - Web: hypertube, darkly 
+
+https://www.internsg.com/job/republic-polytechnic-frontend-intern-ai-powered-mobile-app/
 
 ## 42 Projects
 
