@@ -1,36 +1,4 @@
-# Ecole 42
-
-## Tech role lists
-
-- Software Engineering, Full-Stack Developer
-- Mobile App Developer (iOS/Android), DevOps
-- Cloud Computing, Data Engineering
-- Machine Learning/AI, Web Development
-- Cybersecurity, Game Development
-- QA/Testing, UI/UX Developer, Embedded Systems,
-- Blockchain Developer, IoT (Internet of Things)
-
-## Skills
-
-- Adaptation & creativity: 42run, Krpsim
-- Algorithms & AI: Libft, ft_printf
-- Company Experience: Internship I, Internship II
-- DB & Data: ft_hangouts, ft_linear_regression
-- Functional programming: ft_turing, ft_ality
-- Graphics: miniRT, cub3D 
-- Group & interpersonal: ft_transcendence, gomoku
-- Imperative programming: libasm, minishell
-- Network & system administration: ft_server, ft_service
-- Object-oriented programming: webserv, ft_irc 
-- Organization: computorv2, music-room 
-- Parallel computing: particle-system
-- Rigor: get_next_line, Philosophers
-- Security: camagru, matcha 
-- Technology integration: swifty-companions, swifty-protein
-- Unix: taskmaster, strace
-- Web: hypertube, darkly 
-
-## 42 Projects
+# 42 Projects
 
 | Name    | Description | Keywords | Skills |
 | ------- | ----------- | -------- | ------ |
@@ -264,5 +232,5 @@
 | Leaffliction | This project involves developing a computer vision system for leaf disease classification that consists of four main parts: analyzing and visualizing a dataset of leaf images, performing data augmentation to balance the dataset, implementing various image transformations for feature extraction, and creating a machine learning model that can predict plant diseases from leaf images with over 90% accuracy. Students are free to use any programming language (though Python is recommended) and must submit their code along with a signature hash of their dataset, but without including the actual dataset in their repository. | DataScience, Computer vision | Rigor, Algorithms & AI, Group & interpersonal |
 | UnleashTheBox | This project, called "UnleashTheBox," challenges participants to develop cybersecurity skills by engaging with HackTheBox, an online platform for hacking and penetration testing exercises. The main objective is to achieve at least a Pro-Hacker rank on HackTheBox, demonstrating proficiency in various cybersecurity techniques through hands-on experience with active machines and challenges. | Cybersecurity | Rigor, Security |
 | Tokenizer | This project challenges participants to create their own digital token on a blockchain platform of their choice, requiring them to master relevant programming languages and understand blockchain technology. The task involves coding the token, deploying it on a public blockchain, documenting the process, and demonstrating its functionality, with an emphasis on security and clear explanation of design choices. | General, Web3 | Rigor, Adaptation & creativity, Technology integration |
-| libftpp | This subject aims to introduce you to advanced C++ concepts through the development of complex tools and systems. | General, Library, OOP | Unix, Adaptation & creativity, Object-oriented programming |
+| libftpp | This project involves creating a comprehensive C++ toolbox library (libftpp) that includes implementations of essential components such as data structures (Pool, DataBuffer), design patterns (Memento, Observer, Singleton, StateMachine), thread-safe I/O streams, threading utilities, networking components, and mathematical utilities like vector classes and noise generators. The library must be compiled with C++11 or later, follow specific naming conventions and file organization rules, and be delivered as a static library (libftpp.a) with a unified header file (libftpp.hpp), demonstrating advanced C++ concepts while maintaining high code quality standards. | General, Library, OOP | Unix, Adaptation & creativity, Object-oriented programming |
 | Very_Real_Engine | This project challenges students to create "VeryRealEngine," a complete 3D game engine using Vulkan that must include core features like 3D rendering, physics simulation, scene management, lighting, and shadow systems. The engine's capabilities must be demonstrated through an interactive 3D house environment that showcases various features like dynamic lighting, interactable objects, and particle effects, while maintaining performance of at least 60 FPS in Release mode. | Gaming, Game Engine | Organization, Group & interpersonal, Object-oriented programming, Graphics |
