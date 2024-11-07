@@ -1,5 +1,7 @@
 # 42 Projects
 
+https://kabam.ai/careers/
+
 | Name    | Description | Keywords | Skills |
 | ------- | ----------- | -------- | ------ |
 | C Piscine Shell 00 | This is Shell 00, a foundational project at 42 school that introduces students to basic shell commands and Git operations through a series of exercises. The project consists of 10 exercises (5 mandatory and 5 optional) that cover topics like file manipulation, permissions, SSH keys, Git commits, and file searching, with each exercise building in complexity and requiring students to submit specific files with precise requirements. | General, Imperative programming, Rigor | Rigor, Unix |
